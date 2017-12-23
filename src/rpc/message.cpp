@@ -1,4 +1,4 @@
-// Copyright (c) 2016-2017, The Monero Project
+// Copyright (c) 2016-2017, The Monero Project (except for this text here in parethenses, leathan copyrights that)
 // 
 // All rights reserved.
 // 
